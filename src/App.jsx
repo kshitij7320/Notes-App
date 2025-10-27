@@ -1,6 +1,4 @@
 import { useState } from 'react';
-import notepad from './assets/notepad.png'
-import { X } from 'lucide-react'
 
 const App = () => {
 
